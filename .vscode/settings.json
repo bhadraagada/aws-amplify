@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.formatOnPaste": true,
+    "files.exclude": {
+        "**/.git": false
+    }
+}
